@@ -11,3 +11,6 @@
 El problema de enrutamiento de vehículos (VRP) se centra en encontrar el conjunto óptimo de rutas para una flota 
 de vehículos que debe satisfacer las demandas de un conjunto de clientes, esto considerando minimizar el costo de 
 operación y tiempo de distribución. Además, aquel problema ha sido estudiado por diferentes autores, generalmente 
+
+![image](https://user-images.githubusercontent.com/66271146/143674972-86e58952-2beb-40ff-a43e-7ffd559daddc.png)
+
